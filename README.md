@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/bhavindhodia/bhavindhodia/main/name.svg" alt="Bhavin Dhodia" />
+</h1>
 - 👋 Hi, I’m @bhavindhodia
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
