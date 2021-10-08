@@ -5,7 +5,7 @@
 ## Reach me here 📧
 
 <p>
- <a href="https://www.instagram.com/mokkapps/">
+ <a href="https://www.reddit.com/user/bhavindhodia">
  <img src="https://img.shields.io/badge/reddit-%23E4405F.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=30>
  </a>
 
@@ -35,7 +35,7 @@
 - 🌱 I’m currently learning Vue.js, AIML
 - 💬 Ask me about anything related to Javascript/Typescript/Python or React/Express/Flask/React Native
 - 📫 How to reach me [Bhavin Dhodia](mailto:bhavindhodia13@gmail.com)
-- 👨‍💻 Read more about my projects at [@bhavindhodia](https://bhavinhdhodia.xyz)
+- 👨‍💻 Read more about my projects at [@bhavindhodia](https://bhavindhodia.xyz/)
 - 👯 We can connect to play some games of Valorant
 
 ## My Github Stats 📊
